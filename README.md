@@ -1,6 +1,7 @@
 # Caching-In-Cloud
 Caching system to store users’ session data.
 This app support to following functions:
+
   • put (str_key, data, expiration_date)
   • get(str_key) → null or data
 
